@@ -1,0 +1,1438 @@
+{
+ "built": "2026-09-26T01:20:01.000Z",
+ "refs": [
+  {
+   "key": "investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+   "anchor": "r-6k9rvg",
+   "title": "Beginners' Guide to Asset Allocation, Diversification, and Rebalancing",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (SEC), Investor.gov",
+   "url": "https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset",
+   "citedBy": [
+    {
+     "slug": "why-diversification-reduces-portfolio-risk",
+     "title": "Why Diversification Reduces Portfolio Risk",
+     "id": "2026.0011"
+    },
+    {
+     "slug": "understanding-asset-allocation",
+     "title": "Understanding Asset Allocation: How to Divide Your Portfolio Across Asset Classes",
+     "id": "2026.0007"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/wealth-management/asset-allocation",
+   "anchor": "r-pge0vc",
+   "title": "Asset Allocation - Definition, Importance, Example",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/wealth-management/asset-allocation/",
+   "citedBy": [
+    {
+     "slug": "understanding-asset-allocation",
+     "title": "Understanding Asset Allocation: How to Divide Your Portfolio Across Asset Classes",
+     "id": "2026.0007"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/getting-started/asset-allocation",
+   "anchor": "r-1c3atg5",
+   "title": "Asset Allocation and Diversification",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (Investor.gov)",
+   "url": "https://www.investor.gov/introduction-investing/getting-started/asset-allocation",
+   "citedBy": [
+    {
+     "slug": "understanding-asset-allocation",
+     "title": "Understanding Asset Allocation: How to Divide Your Portfolio Across Asset Classes",
+     "id": "2026.0007"
+    }
+   ]
+  },
+  {
+   "key": "ishares.com/us/insights/what-is-bond-duration",
+   "anchor": "r-sbi7pb",
+   "title": "Bond Duration 101: A Guide for Investors",
+   "author_or_publisher": "iShares by BlackRock",
+   "url": "https://www.ishares.com/us/insights/what-is-bond-duration",
+   "citedBy": [
+    {
+     "slug": "bond-duration-and-interest-rate-risk",
+     "title": "Bond Duration and Interest Rate Risk",
+     "id": "2026.0005"
+    }
+   ]
+  },
+  {
+   "key": "rba.gov.au/education/resources/explainers/bonds-and-the-yield-curve.html",
+   "anchor": "r-mv4ulf",
+   "title": "Bonds and the Yield Curve",
+   "author_or_publisher": "Reserve Bank of Australia",
+   "url": "https://www.rba.gov.au/education/resources/explainers/bonds-and-the-yield-curve.html",
+   "citedBy": [
+    {
+     "slug": "understanding-the-yield-curve",
+     "title": "Understanding the Yield Curve: What the Shape of the Curve Tells Investors",
+     "id": "2026.0012"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/accounting/capital-gains",
+   "anchor": "r-195apla",
+   "title": "Capital Gains",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/accounting/capital-gains/",
+   "citedBy": [
+    {
+     "slug": "capital-gains-tax-on-investments-explained",
+     "title": "Capital Gains Tax on Investments: What It Is and How It Works",
+     "id": "2026.0015"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/compound-interest",
+   "anchor": "r-9idezs",
+   "title": "Compound Interest",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (Investor.gov)",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/compound-interest",
+   "citedBy": [
+    {
+     "slug": "the-power-of-compounding",
+     "title": "The Power of Compounding: How Time Turns Small Returns into Large Wealth",
+     "id": "2026.0010"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/wealth-management/compound-interest",
+   "anchor": "r-19b1tdh",
+   "title": "Compound Interest -- Overview, Components, Practical Examples",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/wealth-management/compound-interest/",
+   "citedBy": [
+    {
+     "slug": "the-power-of-compounding",
+     "title": "The Power of Compounding: How Time Turns Small Returns into Large Wealth",
+     "id": "2026.0010"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/commercial-lending/debt-to-income-ratio",
+   "anchor": "r-1coqsvn",
+   "title": "Debt-to-Income Ratio: Overview, Formula, Example",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/commercial-lending/debt-to-income-ratio/",
+   "citedBy": [
+    {
+     "slug": "understanding-credit-scores-and-debt",
+     "title": "Understanding Credit Scores and Debt: What Lenders Look At and Why It Matters",
+     "id": "2026.0009"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/diversification",
+   "anchor": "r-azj8az",
+   "title": "Diversification | Investor.gov",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (SEC), Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/diversification",
+   "citedBy": [
+    {
+     "slug": "why-diversification-reduces-portfolio-risk",
+     "title": "Why Diversification Reduces Portfolio Risk",
+     "id": "2026.0011"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/dividend",
+   "anchor": "r-rprwj3",
+   "title": "Dividend (glossary)",
+   "author_or_publisher": "U.S. Securities and Exchange Commission, Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/dividend",
+   "citedBy": [
+    {
+     "slug": "reading-the-dividend-payout-ratio",
+     "title": "Reading the Dividend Payout Ratio - And What It Doesn't Tell You",
+     "id": "2026.0001"
+    }
+   ]
+  },
+  {
+   "key": "wallstreetprep.com/knowledge/dividend-coverage-ratio",
+   "anchor": "r-6apuu2",
+   "title": "Dividend Coverage Ratio (DCR): Formula + Calculator",
+   "author_or_publisher": "Wall Street Prep",
+   "url": "https://www.wallstreetprep.com/knowledge/dividend-coverage-ratio/",
+   "citedBy": [
+    {
+     "slug": "reading-the-dividend-payout-ratio",
+     "title": "Reading the Dividend Payout Ratio - And What It Doesn't Tell You",
+     "id": "2026.0001"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/accounting/dividend-payout-ratio-formula",
+   "anchor": "r-nffsty",
+   "title": "Dividend Payout Ratio - Definition, Formula, Guide",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/accounting/dividend-payout-ratio-formula/",
+   "citedBy": [
+    {
+     "slug": "reading-the-dividend-payout-ratio",
+     "title": "Reading the Dividend Payout Ratio - And What It Doesn't Tell You",
+     "id": "2026.0001"
+    }
+   ]
+  },
+  {
+   "key": "wallstreetprep.com/knowledge/dividend-payout-ratio",
+   "anchor": "r-nm8d0w",
+   "title": "Dividend Payout Ratio: Formula + Calculator",
+   "author_or_publisher": "Wall Street Prep",
+   "url": "https://www.wallstreetprep.com/knowledge/dividend-payout-ratio/",
+   "citedBy": [
+    {
+     "slug": "reading-the-dividend-payout-ratio",
+     "title": "Reading the Dividend Payout Ratio - And What It Doesn't Tell You",
+     "id": "2026.0001"
+    }
+   ]
+  },
+  {
+   "key": "stockanalysis.com/term/dividend-payout-ratio",
+   "anchor": "r-kyjd6a",
+   "title": "Dividend Payout Ratio: Meaning, Formulas, and Examples",
+   "author_or_publisher": "StockAnalysis",
+   "url": "https://stockanalysis.com/term/dividend-payout-ratio/",
+   "citedBy": [
+    {
+     "slug": "reading-the-dividend-payout-ratio",
+     "title": "Reading the Dividend Payout Ratio - And What It Doesn't Tell You",
+     "id": "2026.0001"
+    }
+   ]
+  },
+  {
+   "key": "fidelity.com/learning-center/trading-investing/dollar-cost-averaging",
+   "anchor": "r-sis8g9",
+   "title": "Dollar cost averaging",
+   "author_or_publisher": "Fidelity Investments",
+   "url": "https://www.fidelity.com/learning-center/trading-investing/dollar-cost-averaging",
+   "citedBy": [
+    {
+     "slug": "how-dollar-cost-averaging-works",
+     "title": "How Dollar-Cost Averaging Works",
+     "id": "2026.0003"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/dollar-cost-averaging",
+   "anchor": "r-19xaiz1",
+   "title": "Dollar Cost Averaging",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/dollar-cost-averaging",
+   "citedBy": [
+    {
+     "slug": "how-dollar-cost-averaging-works",
+     "title": "How Dollar-Cost Averaging Works",
+     "id": "2026.0003"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/wealth-management/dollar-cost-averaging-dca",
+   "anchor": "r-1oiga5r",
+   "title": "Dollar-Cost Averaging (DCA) - Definition, Examples",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/wealth-management/dollar-cost-averaging-dca/",
+   "citedBy": [
+    {
+     "slug": "how-dollar-cost-averaging-works",
+     "title": "How Dollar-Cost Averaging Works",
+     "id": "2026.0003"
+    }
+   ]
+  },
+  {
+   "key": "rpc.cfainstitute.org/blogs/enterprising-investor/2014/diversification",
+   "anchor": "r-1rc1drz",
+   "title": "Don't Forget Diversification",
+   "author_or_publisher": "Gary Sanger, CFA Institute Enterprising Investor",
+   "url": "https://rpc.cfainstitute.org/blogs/enterprising-investor/2014/diversification",
+   "citedBy": [
+    {
+     "slug": "why-diversification-reduces-portfolio-risk",
+     "title": "Why Diversification Reduces Portfolio Risk",
+     "id": "2026.0011"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/duration",
+   "anchor": "r-1w6t9ny",
+   "title": "Duration",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/duration",
+   "citedBy": [
+    {
+     "slug": "bond-duration-and-interest-rate-risk",
+     "title": "Bond Duration and Interest Rate Risk",
+     "id": "2026.0005"
+    }
+   ]
+  },
+  {
+   "key": "fidelity.com/learning-center/investment-products/fixed-income-bonds/duration",
+   "anchor": "r-102lj85",
+   "title": "Duration: Understanding the Relationship Between Bond Prices and Interest Rates",
+   "author_or_publisher": "Fidelity Investments",
+   "url": "https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/duration",
+   "citedBy": [
+    {
+     "slug": "bond-duration-and-interest-rate-risk",
+     "title": "Bond Duration and Interest Rate Risk",
+     "id": "2026.0005"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/exchange-traded-fund-etf",
+   "anchor": "r-1kjllqn",
+   "title": "Exchange-Traded Fund (ETF)",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/exchange-traded-fund-etf/",
+   "citedBy": [
+    {
+     "slug": "index-funds-and-etfs-explained",
+     "title": "Index Funds and ETFs Explained: How Passive Investing Works",
+     "id": "2026.0013"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/exchange-traded-fund-etf",
+   "anchor": "r-9yebyq",
+   "title": "Exchange-Traded Fund (ETF) -- Glossary",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (SEC), Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/exchange-traded-fund-etf",
+   "citedBy": [
+    {
+     "slug": "index-funds-and-etfs-explained",
+     "title": "Index Funds and ETFs Explained: How Passive Investing Works",
+     "id": "2026.0013"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/capital-gains",
+   "anchor": "r-21wc2t",
+   "title": "Glossary: Capital Gain",
+   "author_or_publisher": "U.S. Securities and Exchange Commission, Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/capital-gains",
+   "citedBy": [
+    {
+     "slug": "capital-gains-tax-on-investments-explained",
+     "title": "Capital Gains Tax on Investments: What It Is and How It Works",
+     "id": "2026.0015"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/capital-gains-tax",
+   "anchor": "r-21v7dr",
+   "title": "Glossary: Capital Gains Tax",
+   "author_or_publisher": "U.S. Securities and Exchange Commission, Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/capital-gains-tax",
+   "citedBy": [
+    {
+     "slug": "capital-gains-tax-on-investments-explained",
+     "title": "Capital Gains Tax on Investments: What It Is and How It Works",
+     "id": "2026.0015"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/equity",
+   "anchor": "r-3mta89",
+   "title": "Glossary: Equity",
+   "author_or_publisher": "U.S. Securities and Exchange Commission, Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/equity",
+   "citedBy": [
+    {
+     "slug": "return-on-equity-explained",
+     "title": "Return on Equity Explained: What ROE Measures and Where It Falls Short",
+     "id": "2026.0017"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/standard-deviation",
+   "anchor": "r-rnpo2x",
+   "title": "Glossary: Standard Deviation",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/standard-deviation",
+   "citedBy": [
+    {
+     "slug": "measuring-investment-risk-standard-deviation-beta-sharpe-ratio",
+     "title": "Measuring Investment Risk: Standard Deviation, Beta, and the Sharpe Ratio",
+     "id": "2026.0014"
+    }
+   ]
+  },
+  {
+   "key": "bankofcanada.ca/2022/07/household-differences",
+   "anchor": "r-16hlmk0",
+   "title": "Household Differences and Why They Matter",
+   "author_or_publisher": "Bank of Canada",
+   "url": "https://www.bankofcanada.ca/2022/07/household-differences/",
+   "citedBy": [
+    {
+     "slug": "understanding-credit-scores-and-debt",
+     "title": "Understanding Credit Scores and Debt: What Lenders Look At and Why It Matters",
+     "id": "2026.0009"
+    }
+   ]
+  },
+  {
+   "key": "cfainstitute.org/insights/professional-learning/refresher-readings/2026/index-based-equity-strategies",
+   "anchor": "r-14x18c8",
+   "title": "Index-Based Equity Strategies",
+   "author_or_publisher": "CFA Institute",
+   "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/index-based-equity-strategies",
+   "citedBy": [
+    {
+     "slug": "index-funds-and-etfs-explained",
+     "title": "Index Funds and ETFs Explained: How Passive Investing Works",
+     "id": "2026.0013"
+    }
+   ]
+  },
+  {
+   "key": "bankofengland.co.uk/monetary-policy/inflation",
+   "anchor": "r-fwsq17",
+   "title": "Inflation",
+   "author_or_publisher": "Bank of England",
+   "url": "https://www.bankofengland.co.uk/monetary-policy/inflation",
+   "citedBy": [
+    {
+     "slug": "inflation-and-purchasing-power",
+     "title": "Inflation and Purchasing Power: What Every Investor Should Understand",
+     "id": "2026.0006"
+    }
+   ]
+  },
+  {
+   "key": "rba.gov.au/education/resources/explainers/inflation-and-its-measurement.html",
+   "anchor": "r-18ntd99",
+   "title": "Inflation and Its Measurement",
+   "author_or_publisher": "Reserve Bank of Australia",
+   "url": "https://www.rba.gov.au/education/resources/explainers/inflation-and-its-measurement.html",
+   "citedBy": [
+    {
+     "slug": "inflation-and-purchasing-power",
+     "title": "Inflation and Purchasing Power: What Every Investor Should Understand",
+     "id": "2026.0006"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-72",
+   "anchor": "r-m4589q",
+   "title": "Investor Bulletin: Behavioral Patterns of U.S. Investors",
+   "author_or_publisher": "SEC Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-72",
+   "citedBy": [
+    {
+     "slug": "loss-aversion-and-investor-behavior",
+     "title": "Loss Aversion and Investor Behavior: Why Losses Hurt More Than Gains Feel Good",
+     "id": "2026.0008"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-26",
+   "anchor": "r-m45859",
+   "title": "Investor Bulletin: Index Funds",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (SEC), Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-26",
+   "citedBy": [
+    {
+     "slug": "index-funds-and-etfs-explained",
+     "title": "Index Funds and ETFs Explained: How Passive Investing Works",
+     "id": "2026.0013"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/loss-aversion",
+   "anchor": "r-1oafeca",
+   "title": "Loss Aversion - Definition, Risks in Trading",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/loss-aversion/",
+   "citedBy": [
+    {
+     "slug": "loss-aversion-and-investor-behavior",
+     "title": "Loss Aversion and Investor Behavior: Why Losses Hurt More Than Gains Feel Good",
+     "id": "2026.0008"
+    }
+   ]
+  },
+  {
+   "key": "fidelity.ca/en/investor-education/bond-duration-explained",
+   "anchor": "r-pyla4x",
+   "title": "Making sense of duration sensitivity: Bond duration explained",
+   "author_or_publisher": "Fidelity Canada",
+   "url": "https://www.fidelity.ca/en/investor-education/bond-duration-explained/",
+   "citedBy": [
+    {
+     "slug": "bond-duration-and-interest-rate-risk",
+     "title": "Bond Duration and Interest Rate Risk",
+     "id": "2026.0005"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/valuation/market-to-book-ratio-price-book",
+   "anchor": "r-8s3y6h",
+   "title": "Market to Book Ratio (Price to Book) -- Formula, Example and Interpretation",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/valuation/market-to-book-ratio-price-book/",
+   "citedBy": [
+    {
+     "slug": "understanding-the-price-to-book-ratio",
+     "title": "Understanding the Price-to-Book Ratio",
+     "id": "2026.0016"
+    }
+   ]
+  },
+  {
+   "key": "cfainstitute.org/insights/professional-learning/refresher-readings/2026/market-based-valuation-price-enterprise-value-multiples",
+   "anchor": "r-1aq0nw2",
+   "title": "Market-Based Valuation: Price and Enterprise Value Multiples",
+   "author_or_publisher": "CFA Institute",
+   "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/market-based-valuation-price-enterprise-value-multiples",
+   "citedBy": [
+    {
+     "slug": "return-on-equity-explained",
+     "title": "Return on Equity Explained: What ROE Measures and Where It Falls Short",
+     "id": "2026.0017"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin",
+   "anchor": "r-7r96i8",
+   "title": "Mutual Fund and ETF Fees and Expenses -- Investor Bulletin",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin",
+   "citedBy": [
+    {
+     "slug": "what-is-an-expense-ratio",
+     "title": "What Is an Expense Ratio -- and Why Does It Matter?",
+     "id": "2026.0004"
+    }
+   ]
+  },
+  {
+   "key": "cfainstitute.org/insights/professional-learning/refresher-readings/2026/overview-asset-allocation",
+   "anchor": "r-1d45rdh",
+   "title": "Overview of Asset Allocation",
+   "author_or_publisher": "CFA Institute",
+   "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/overview-asset-allocation",
+   "citedBy": [
+    {
+     "slug": "understanding-asset-allocation",
+     "title": "Understanding Asset Allocation: How to Divide Your Portfolio Across Asset Classes",
+     "id": "2026.0007"
+    }
+   ]
+  },
+  {
+   "key": "wallstreetprep.com/knowledge/pe-ratio-price-to-earnings",
+   "anchor": "r-16q581v",
+   "title": "P/E Ratio (Price-Earnings) | Formula + Calculator",
+   "author_or_publisher": "Wall Street Prep",
+   "url": "https://www.wallstreetprep.com/knowledge/pe-ratio-price-to-earnings/",
+   "citedBy": [
+    {
+     "slug": "understanding-the-price-to-earnings-ratio",
+     "title": "Understanding the Price-to-Earnings Ratio",
+     "id": "2026.0002"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/save-and-invest/pay-credit-cards-or-other-high-interest",
+   "anchor": "r-15j7poa",
+   "title": "Pay Off Credit Cards or Other High Interest Debt",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (Investor.gov)",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/pay-credit-cards-or-other-high-interest",
+   "citedBy": [
+    {
+     "slug": "understanding-credit-scores-and-debt",
+     "title": "Understanding Credit Scores and Debt: What Lenders Look At and Why It Matters",
+     "id": "2026.0009"
+    }
+   ]
+  },
+  {
+   "key": "rpc.cfainstitute.org/blogs/enterprising-investor/2021/peak-diversification-how-many-stocks-best-diversify-an-equity-portfolio",
+   "anchor": "r-tzcri6",
+   "title": "Peak Diversification: How Many Stocks Best Diversify an Equity Portfolio?",
+   "author_or_publisher": "Aidan Eccles, Lindsey Coffey, Derek Horstmeyer, CFA Institute Enterprising Investor",
+   "url": "https://rpc.cfainstitute.org/blogs/enterprising-investor/2021/peak-diversification-how-many-stocks-best-diversify-an-equity-portfolio",
+   "citedBy": [
+    {
+     "slug": "why-diversification-reduces-portfolio-risk",
+     "title": "Why Diversification Reduces Portfolio Risk",
+     "id": "2026.0011"
+    }
+   ]
+  },
+  {
+   "key": "cfainstitute.org/insights/professional-learning/refresher-readings/2026/portfolio-risk-return-part-2",
+   "anchor": "r-a380du",
+   "title": "Portfolio Risk and Return: Part II",
+   "author_or_publisher": "CFA Institute",
+   "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/portfolio-risk-return-part-2",
+   "citedBy": [
+    {
+     "slug": "measuring-investment-risk-standard-deviation-beta-sharpe-ratio",
+     "title": "Measuring Investment Risk: Standard Deviation, Beta, and the Sharpe Ratio",
+     "id": "2026.0014"
+    }
+   ]
+  },
+  {
+   "key": "pages.stern.nyu.edu/~adamodar/new_home_page/datafile/pbvdata.html",
+   "anchor": "r-1gapkjp",
+   "title": "Price and Value to Book Ratio by Sector (US)",
+   "author_or_publisher": "Aswath Damodaran, NYU Stern School of Business",
+   "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/pbvdata.html",
+   "citedBy": [
+    {
+     "slug": "understanding-the-price-to-book-ratio",
+     "title": "Understanding the Price-to-Book Ratio",
+     "id": "2026.0016"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/price-book-ratio",
+   "anchor": "r-kjd1zz",
+   "title": "Price-Book Ratio -- Glossary",
+   "author_or_publisher": "SEC Investor.gov (U.S. Securities and Exchange Commission)",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-book-ratio",
+   "citedBy": [
+    {
+     "slug": "understanding-the-price-to-book-ratio",
+     "title": "Understanding the Price-to-Book Ratio",
+     "id": "2026.0016"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio",
+   "anchor": "r-10g6m25",
+   "title": "Price-Earnings (P/E) Ratio",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/price-earnings-pe-ratio",
+   "citedBy": [
+    {
+     "slug": "understanding-the-price-to-earnings-ratio",
+     "title": "Understanding the Price-to-Earnings Ratio",
+     "id": "2026.0002"
+    }
+   ]
+  },
+  {
+   "key": "cfainstitute.org/insights/professional-learning/refresher-readings/2026/principles-asset-allocation",
+   "anchor": "r-1i5oy53",
+   "title": "Principles of Asset Allocation",
+   "author_or_publisher": "CFA Institute",
+   "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/principles-asset-allocation",
+   "citedBy": [
+    {
+     "slug": "understanding-asset-allocation",
+     "title": "Understanding Asset Allocation: How to Divide Your Portfolio Across Asset Classes",
+     "id": "2026.0007"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/purchasing-power",
+   "anchor": "r-pm08l2",
+   "title": "Purchasing Power",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/purchasing-power",
+   "citedBy": [
+    {
+     "slug": "inflation-and-purchasing-power",
+     "title": "Inflation and Purchasing Power: What Every Investor Should Understand",
+     "id": "2026.0006"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/accounting/what-is-return-on-equity-roe",
+   "anchor": "r-1wyxckm",
+   "title": "Return on Equity (ROE) - Formula, Examples and Guide to ROE",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/accounting/what-is-return-on-equity-roe/",
+   "citedBy": [
+    {
+     "slug": "return-on-equity-explained",
+     "title": "Return on Equity Explained: What ROE Measures and Where It Falls Short",
+     "id": "2026.0017"
+    }
+   ]
+  },
+  {
+   "key": "pages.stern.nyu.edu/~adamodar/new_home_page/datafile/roe.html",
+   "anchor": "r-mgn11l",
+   "title": "Return on Equity by Sector (US)",
+   "author_or_publisher": "Aswath Damodaran, NYU Stern School of Business",
+   "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/roe.html",
+   "citedBy": [
+    {
+     "slug": "return-on-equity-explained",
+     "title": "Return on Equity Explained: What ROE Measures and Where It Falls Short",
+     "id": "2026.0017"
+    }
+   ]
+  },
+  {
+   "key": "rba.gov.au/publications/bulletin/2019/jun/the-australian-equity-market-over-the-past-century.html",
+   "anchor": "r-1618me7",
+   "title": "The Australian Equity Market over the Past Century",
+   "author_or_publisher": "Reserve Bank of Australia",
+   "url": "https://www.rba.gov.au/publications/bulletin/2019/jun/the-australian-equity-market-over-the-past-century.html",
+   "citedBy": [
+    {
+     "slug": "the-power-of-compounding",
+     "title": "The Power of Compounding: How Time Turns Small Returns into Large Wealth",
+     "id": "2026.0010"
+    }
+   ]
+  },
+  {
+   "key": "cfainstitute.org/insights/professional-learning/refresher-readings/2026/the-behavioral-biases-of-individuals",
+   "anchor": "r-1gtokbc",
+   "title": "The Behavioral Biases of Individuals",
+   "author_or_publisher": "CFA Institute",
+   "url": "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/the-behavioral-biases-of-individuals",
+   "citedBy": [
+    {
+     "slug": "loss-aversion-and-investor-behavior",
+     "title": "Loss Aversion and Investor Behavior: Why Losses Hurt More Than Gains Feel Good",
+     "id": "2026.0008"
+    }
+   ]
+  },
+  {
+   "key": "rpc.cfainstitute.org/blogs/enterprising-investor/2020/three-reasons-to-talk-about-managing-capital-gains",
+   "anchor": "r-1pgf8f7",
+   "title": "Three Reasons to Talk about Managing Capital Gains",
+   "author_or_publisher": "CFA Institute, Enterprising Investor",
+   "url": "https://rpc.cfainstitute.org/blogs/enterprising-investor/2020/three-reasons-to-talk-about-managing-capital-gains",
+   "citedBy": [
+    {
+     "slug": "capital-gains-tax-on-investments-explained",
+     "title": "Capital Gains Tax on Investments: What It Is and How It Works",
+     "id": "2026.0015"
+    }
+   ]
+  },
+  {
+   "key": "irs.gov/taxtopics/tc409",
+   "anchor": "r-rfhhni",
+   "title": "Topic No. 409: Capital Gains and Losses",
+   "author_or_publisher": "Internal Revenue Service (IRS)",
+   "url": "https://www.irs.gov/taxtopics/tc409",
+   "citedBy": [
+    {
+     "slug": "capital-gains-tax-on-investments-explained",
+     "title": "Capital Gains Tax on Investments: What It Is and How It Works",
+     "id": "2026.0015"
+    }
+   ]
+  },
+  {
+   "key": "bankofcanada.ca/2020/08/understanding-inflation",
+   "anchor": "r-v1evs0",
+   "title": "Understanding Inflation",
+   "author_or_publisher": "Bank of Canada",
+   "url": "https://www.bankofcanada.ca/2020/08/understanding-inflation/",
+   "citedBy": [
+    {
+     "slug": "inflation-and-purchasing-power",
+     "title": "Inflation and Purchasing Power: What Every Investor Should Understand",
+     "id": "2026.0006"
+    }
+   ]
+  },
+  {
+   "key": "cfainstitute.org/insights/articles/understanding-investment-risk",
+   "anchor": "r-11sqq7l",
+   "title": "Understanding Investment Risk",
+   "author_or_publisher": "CFA Institute",
+   "url": "https://www.cfainstitute.org/insights/articles/understanding-investment-risk",
+   "citedBy": [
+    {
+     "slug": "measuring-investment-risk-standard-deviation-beta-sharpe-ratio",
+     "title": "Measuring Investment Risk: Standard Deviation, Beta, and the Sharpe Ratio",
+     "id": "2026.0014"
+    }
+   ]
+  },
+  {
+   "key": "rpc.cfainstitute.org/blogs/enterprising-investor/2018/what-does-loss-aversion-mean-for-investors-not-much",
+   "anchor": "r-zzn4yq",
+   "title": "What Does Loss Aversion Mean for Investors? Not Much",
+   "author_or_publisher": "CFA Institute Enterprising Investor",
+   "url": "https://rpc.cfainstitute.org/blogs/enterprising-investor/2018/what-does-loss-aversion-mean-for-investors-not-much",
+   "citedBy": [
+    {
+     "slug": "loss-aversion-and-investor-behavior",
+     "title": "Loss Aversion and Investor Behavior: Why Losses Hurt More Than Gains Feel Good",
+     "id": "2026.0008"
+    }
+   ]
+  },
+  {
+   "key": "consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791",
+   "anchor": "r-xd3zfi",
+   "title": "What is a Debt-to-Income Ratio?",
+   "author_or_publisher": "Consumer Financial Protection Bureau (CFPB)",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/",
+   "citedBy": [
+    {
+     "slug": "understanding-credit-scores-and-debt",
+     "title": "Understanding Credit Scores and Debt: What Lenders Look At and Why It Matters",
+     "id": "2026.0009"
+    }
+   ]
+  },
+  {
+   "key": "investor.vanguard.com/investor-resources-education/education/expense-ratio",
+   "anchor": "r-506n2i",
+   "title": "What is an expense ratio?",
+   "author_or_publisher": "Vanguard",
+   "url": "https://investor.vanguard.com/investor-resources-education/education/expense-ratio",
+   "citedBy": [
+    {
+     "slug": "what-is-an-expense-ratio",
+     "title": "What Is an Expense Ratio -- and Why Does It Matter?",
+     "id": "2026.0004"
+    }
+   ]
+  },
+  {
+   "key": "fidelity.com/learning-center/smart-money/expense-ratio",
+   "anchor": "r-16924nr",
+   "title": "What is an expense ratio?",
+   "author_or_publisher": "Fidelity Investments",
+   "url": "https://www.fidelity.com/learning-center/smart-money/expense-ratio",
+   "citedBy": [
+    {
+     "slug": "what-is-an-expense-ratio",
+     "title": "What Is an Expense Ratio -- and Why Does It Matter?",
+     "id": "2026.0004"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/additional-resources/information/youth/teachers-classroom-resources/what-compound-interest",
+   "anchor": "r-1g2ri64",
+   "title": "What is Compound Interest?",
+   "author_or_publisher": "U.S. Securities and Exchange Commission (Investor.gov)",
+   "url": "https://www.investor.gov/additional-resources/information/youth/teachers-classroom-resources/what-compound-interest",
+   "citedBy": [
+    {
+     "slug": "the-power-of-compounding",
+     "title": "The Power of Compounding: How Time Turns Small Returns into Large Wealth",
+     "id": "2026.0010"
+    }
+   ]
+  },
+  {
+   "key": "fidelity.com/learning-center/trading-investing/pe-ratio",
+   "anchor": "r-1x5necl",
+   "title": "What is price-to-earnings (PE) ratio?",
+   "author_or_publisher": "Fidelity Investments",
+   "url": "https://www.fidelity.com/learning-center/trading-investing/pe-ratio",
+   "citedBy": [
+    {
+     "slug": "understanding-the-price-to-earnings-ratio",
+     "title": "Understanding the Price-to-Earnings Ratio",
+     "id": "2026.0002"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/what-risk",
+   "anchor": "r-va9esf",
+   "title": "What is Risk?",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/what-risk",
+   "citedBy": [
+    {
+     "slug": "measuring-investment-risk-standard-deviation-beta-sharpe-ratio",
+     "title": "Measuring Investment Risk: Standard Deviation, Beta, and the Sharpe Ratio",
+     "id": "2026.0014"
+    }
+   ]
+  },
+  {
+   "key": "investor.gov/introduction-investing/investing-basics/glossary/yield-curve",
+   "anchor": "r-1ual8vl",
+   "title": "Yield Curve",
+   "author_or_publisher": "U.S. Securities and Exchange Commission / Investor.gov",
+   "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/yield-curve",
+   "citedBy": [
+    {
+     "slug": "understanding-the-yield-curve",
+     "title": "Understanding the Yield Curve: What the Shape of the Curve Tells Investors",
+     "id": "2026.0012"
+    }
+   ]
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/fixed-income/yield-curve",
+   "anchor": "r-r5gjc7",
+   "title": "Yield Curve",
+   "author_or_publisher": "Corporate Finance Institute",
+   "url": "https://corporatefinanceinstitute.com/resources/fixed-income/yield-curve/",
+   "citedBy": [
+    {
+     "slug": "understanding-the-yield-curve",
+     "title": "Understanding the Yield Curve: What the Shape of the Curve Tells Investors",
+     "id": "2026.0012"
+    }
+   ]
+  },
+  {
+   "key": "bankofcanada.ca/rates/interest-rates/bond-yield-curves",
+   "anchor": "r-z1v4he",
+   "title": "Yield Curves for Zero-Coupon Bonds",
+   "author_or_publisher": "Bank of Canada",
+   "url": "https://www.bankofcanada.ca/rates/interest-rates/bond-yield-curves/",
+   "citedBy": [
+    {
+     "slug": "understanding-the-yield-curve",
+     "title": "Understanding the Yield Curve: What the Shape of the Curve Tells Investors",
+     "id": "2026.0012"
+    }
+   ]
+  },
+  {
+   "key": "opm-plan-types",
+   "anchor": "r-vi6h1p",
+   "title": "Plan Types",
+   "author_or_publisher": "U.S. Office of Personnel Management",
+   "url": "https://www.opm.gov/healthcare-insurance/tribal-employers/plan-information/plan-types",
+   "citedBy": []
+  },
+  {
+   "key": "healthcare-gov-plan-types",
+   "anchor": "r-5zf7qa",
+   "title": "Health insurance plan & network types: HMOs, PPOs, and more",
+   "author_or_publisher": "HealthCare.gov",
+   "url": "https://www.healthcare.gov/choose-a-plan/plan-types/",
+   "citedBy": []
+  },
+  {
+   "key": "healthcare-gov-total-costs",
+   "anchor": "r-savpo3",
+   "title": "Your total costs for health care: Premium, deductible, and out-of-pocket costs",
+   "author_or_publisher": "HealthCare.gov",
+   "url": "https://www.healthcare.gov/choose-a-plan/your-total-costs/",
+   "citedBy": []
+  },
+  {
+   "key": "irs-2026-inflation-adjustments",
+   "anchor": "r-ahm6q0",
+   "title": "IRS releases tax inflation adjustments for tax year 2026, including amendments from the One Big Beautiful Bill",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill",
+   "citedBy": []
+  },
+  {
+   "key": "irs-pub-17",
+   "anchor": "r-umoo15",
+   "title": "Publication 17, Your Federal Income Tax",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/publications/p17",
+   "citedBy": []
+  },
+  {
+   "key": "irs-pub-505",
+   "anchor": "r-2befs3",
+   "title": "Publication 505, Tax Withholding and Estimated Tax",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/publications/p505",
+   "citedBy": []
+  },
+  {
+   "key": "irs-topic-551",
+   "anchor": "r-jsl31x",
+   "title": "Topic no. 551, Standard deduction",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/taxtopics/tc551",
+   "citedBy": []
+  },
+  {
+   "key": "irs-topic-501",
+   "anchor": "r-i1z9x5",
+   "title": "Topic no. 501, Should I itemize?",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/taxtopics/tc501",
+   "citedBy": []
+  },
+  {
+   "key": "irs-standard-vs-itemized",
+   "anchor": "r-88dc67",
+   "title": "It's important for taxpayers to know the difference between standard and itemized deductions",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/newsroom/its-important-for-taxpayers-to-know-the-difference-between-standard-and-itemized-deductions",
+   "citedBy": []
+  },
+  {
+   "key": "irs-sep",
+   "anchor": "r-hkchwt",
+   "title": "Simplified Employee Pension plan (SEP)",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/vi/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep",
+   "citedBy": []
+  },
+  {
+   "key": "irs-sep-fixit",
+   "anchor": "r-n2s6fs",
+   "title": "SEP fix it guide: SEP plan overview",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/retirement-plans/sep-fix-it-guide-sep-plan-overview",
+   "citedBy": []
+  },
+  {
+   "key": "irs-solo-401k",
+   "anchor": "r-e2o4o5",
+   "title": "One Participant 401k Plans",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/retirement-plans/one-participant-401k-plans",
+   "citedBy": []
+  },
+  {
+   "key": "irs-401k-limits",
+   "anchor": "r-yu29l7",
+   "title": "Retirement topics — 401(k) and profit-sharing plan contribution limits",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits",
+   "citedBy": []
+  },
+  {
+   "key": "irs-sep-limits",
+   "anchor": "r-mswdjx",
+   "title": "SEP contribution limits (including grandfathered SARSEPs)",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/sep-contribution-limits-including-grandfathered-sarseps",
+   "citedBy": []
+  },
+  {
+   "key": "naic-life-guide-or",
+   "anchor": "r-1dhozp",
+   "title": "Life Insurance Buyer's Guide (NAIC)",
+   "author_or_publisher": "Oregon Division of Financial Regulation",
+   "url": "https://stage-dfr.oregon.gov/help/outreach-education/Documents/publications/NAIC-Life-Insurance-Guide.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "wa-life-guide",
+   "anchor": "r-n7i067",
+   "title": "A consumer's guide to: Life insurance",
+   "author_or_publisher": "Washington State Office of the Insurance Commissioner",
+   "url": "https://www.insurance.wa.gov/sites/default/files/2025-03/life-insurance-guide.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "dc-life-guide",
+   "anchor": "r-h0mhvw",
+   "title": "Life insurance buyer's guide (NAIC)",
+   "author_or_publisher": "D.C. Department of Insurance, Securities and Banking",
+   "url": "https://disb.dc.gov/sites/default/files/dc/sites/disb/publication/attachments/consumer_guide_life2.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-right-time-buy",
+   "anchor": "r-dh1jvh",
+   "title": "Consider whether it's the right time for you to buy",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/owning-a-home/prepare/consider-whether-its-the-right-time-for-you-to-buy/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-buying-considerations",
+   "anchor": "r-kmoo0b",
+   "title": "What are some of the financial considerations of buying a home?",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://Www.Consumerfinance.Gov/ask-cfpb/what-are-some-of-the-financial-considerations-of-buying-a-home-en-119/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-buy-rent-tool",
+   "anchor": "r-opkf5f",
+   "title": "Buying or renting a home — Your Money, Your Goals tool",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://files.consumerfinance.gov/f/documents/cfpb_ymyg-servicemembers-tool_buying-or-renting-a-home.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "fdic-mortgages",
+   "anchor": "r-hvc1xx",
+   "title": "Mortgages",
+   "author_or_publisher": "Federal Deposit Insurance Corporation",
+   "url": "https://www.fdic.gov/consumer-resource-center/mortgages",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-pmi-cancel",
+   "anchor": "r-rj34lg",
+   "title": "When can I remove private mortgage insurance (PMI) from my loan?",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/when-can-i-remove-private-mortgage-insurance-pmi-from-my-loan-en-202/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-mortgage-terms",
+   "anchor": "r-guzfg0",
+   "title": "Mortgage key terms",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-what-is-pmi",
+   "anchor": "r-yw8f14",
+   "title": "What is private mortgage insurance?",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-private-mortgage-insurance-en-122/?_gl=1*1rxmro7*_ga*MTQzODI5NDAzMC4xNjIyMTM0NzI3*_ga_DBYJL30CHS*MTYyMjEzNDcyNi4xLjEuMTYyMjEzNTEwNy4w",
+   "citedBy": []
+  },
+  {
+   "key": "careeronestop-salary",
+   "anchor": "r-aqskbr",
+   "title": "Negotiate your salary",
+   "author_or_publisher": "CareerOneStop, U.S. Department of Labor",
+   "url": "https://www.careeronestop.org/JobSearch/Interview/negotiate-your-salary.aspx?secondaryNavPanels=HQ%3D%3D",
+   "citedBy": []
+  },
+  {
+   "key": "careeronestop-veterans-offer",
+   "anchor": "r-dl6wy0",
+   "title": "Negotiate an offer (Veterans)",
+   "author_or_publisher": "CareerOneStop, U.S. Department of Labor",
+   "url": "https://cloudfront.careeronestop.org/Veterans/JobSearch/JobOffers/negotiate-an-offer.aspx",
+   "citedBy": []
+  },
+  {
+   "key": "nydol-salary-guide",
+   "anchor": "r-u3d88n",
+   "title": "Salary Negotiation Guide (P685)",
+   "author_or_publisher": "New York State Department of Labor",
+   "url": "https://dol.ny.gov/system/files/documents/2021/08/p685-salary-negotiation-guide-online-8-23-21_0.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "irs-gig-taxes",
+   "anchor": "r-ih5zem",
+   "title": "Manage taxes for your gig work",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/manage-taxes-for-your-gig-work",
+   "citedBy": []
+  },
+  {
+   "key": "irs-self-employed-center",
+   "anchor": "r-05e5fu",
+   "title": "Self-employed individuals tax center",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center",
+   "citedBy": []
+  },
+  {
+   "key": "irs-gig-income",
+   "anchor": "r-iz4guz",
+   "title": "Taxpayers must report gig economy income on their tax return",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/newsroom/taxpayers-must-report-gig-economy-income-on-their-tax-return",
+   "citedBy": []
+  },
+  {
+   "key": "irs-gig-center",
+   "anchor": "r-70c5sp",
+   "title": "Gig economy tax center",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/businesses/gig-economy-tax-center",
+   "citedBy": []
+  },
+  {
+   "key": "irs-pub-559",
+   "anchor": "r-cqucu9",
+   "title": "About Publication 559, Survivors, Executors, and Administrators",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/forms-pubs/about-publication-559",
+   "citedBy": []
+  },
+  {
+   "key": "irs-gifts-inheritances",
+   "anchor": "r-kj5v49",
+   "title": "Gifts and inheritances — frequently asked questions",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/faqs/interest-dividends-other-types-of-income/gifts-inheritances",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-joint-account-death",
+   "anchor": "r-gue0n6",
+   "title": "What happens if I have a joint bank account with someone who died?",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://Www.Consumerfinance.Gov/ask-cfpb/what-happens-if-i-have-a-joint-bank-account-with-someone-who-died-en-1101/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-banking-help",
+   "anchor": "r-mjr9dk",
+   "title": "I would like to be able to have my friend or family member help with my bill-paying and banking. What are my options?",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/i-would-like-to-be-able-to-have-my-friend-or-family-member-help-with-my-bill-paying-and-banking-what-are-my-options-en-1145/",
+   "citedBy": []
+  },
+  {
+   "key": "irs-gift-tax-faq",
+   "anchor": "r-23gtwu",
+   "title": "Frequently asked questions on gift taxes",
+   "author_or_publisher": "Internal Revenue Service",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes?ref=financial-freedom-101.com",
+   "citedBy": []
+  },
+  {
+   "key": "army-will-worksheet",
+   "anchor": "r-ckx1sc",
+   "title": "Estate planning will worksheet",
+   "author_or_publisher": "U.S. Army, Fort Carson",
+   "url": "https://home.army.mil/carson/1317/4662/6443/Updated_Will_Worksheet_APR_2025.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-close-credit-card",
+   "anchor": "r-pfsiba",
+   "title": "Does it hurt my credit to close a credit card?",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/does-it-hurt-my-credit-to-close-a-credit-card-en-1231/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-good-credit-score",
+   "anchor": "r-gyqvem",
+   "title": "How do I get and keep a good credit score?",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-and-keep-a-good-credit-score-en-318/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-cosigning-guide",
+   "anchor": "r-f53ynm",
+   "title": "Cosigning loans / sharing credit: building block guide",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://files.consumerfinance.gov/f/documents/cfpb_building_block_activities_cosigning-loans-sharing-credit_guide.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "finra-net-worth-archived",
+   "anchor": "r-fhtm5g",
+   "title": "Know Your Net Worth (archived)",
+   "author_or_publisher": "FINRA",
+   "url": "https://web.archive.org/web/20250817200000/https://www.finra.org/investors/personal-finance/know-your-net-worth",
+   "citedBy": []
+  },
+  {
+   "key": "fdic-money-smart-10-participant",
+   "anchor": "r-duvcih",
+   "title": "Money Smart for Adults Module 10 Participant Guide: Building Your Financial Future",
+   "author_or_publisher": "Federal Deposit Insurance Corporation",
+   "url": "https://catalog.fdic.gov/catalog/sfc/servlet.shepherd/document/download/069t000000BcgzVAAR",
+   "citedBy": []
+  },
+  {
+   "key": "fdic-money-smart-10-instructor",
+   "anchor": "r-wc0dg7",
+   "title": "Money Smart for Adults Module 10 Instructor Guide: Building Your Financial Future",
+   "author_or_publisher": "Federal Deposit Insurance Corporation",
+   "url": "https://catalog.fdic.gov/catalog/sfc/servlet.shepherd/document/download/069t000000BcgzQAAR",
+   "citedBy": []
+  },
+  {
+   "key": "prosper-canada-net-worth",
+   "anchor": "r-lwcl3g",
+   "title": "Net worth worksheet",
+   "author_or_publisher": "Prosper Canada",
+   "url": "https://learninghub.prospercanada.org/wp-content/uploads/2018/11/6c-FC-Net-Worth.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-budgeting",
+   "anchor": "r-27zbcq",
+   "title": "Budgeting: How to create a budget and stick with it",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/archive/blog/budgeting-how-to-create-a-budget-and-stick-with-it/",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-assess-spending",
+   "anchor": "r-cg9dde",
+   "title": "Assess your spending",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://www.consumerfinance.gov/owning-a-home/prepare/assess-your-spending/",
+   "citedBy": []
+  },
+  {
+   "key": "consumer-gov-budget-worksheet",
+   "anchor": "r-09j128",
+   "title": "Budget worksheet",
+   "author_or_publisher": "Consumer.gov (Federal Trade Commission)",
+   "url": "https://consumer.gov/your-money/budget-worksheet",
+   "citedBy": []
+  },
+  {
+   "key": "consumer-gov-making-budget",
+   "anchor": "r-xwsoqg",
+   "title": "Making a budget",
+   "author_or_publisher": "Consumer.gov (Federal Trade Commission)",
+   "url": "https://consumer.gov/your-money/making-budget",
+   "citedBy": []
+  },
+  {
+   "key": "cfpb-ymyg-toolkit",
+   "anchor": "r-pel3h4",
+   "title": "Your Money, Your Goals toolkit",
+   "author_or_publisher": "Consumer Financial Protection Bureau",
+   "url": "https://files.consumerfinance.gov/f/201603_cfpb_YMYG-Legal-English.pdf",
+   "citedBy": []
+  },
+  {
+   "key": "corporatefinanceinstitute.com/resources/accounting/balance-sheet/",
+   "anchor": "r-ecbo6l",
+   "title": "What Is a Balance Sheet? - Format, Examples & Purpose | CFI",
+   "author_or_publisher": "Corporate Finance Institute (CFI)",
+   "url": "https://www.corporatefinanceinstitute.com/resources/accounting/balance-sheet/",
+   "citedBy": []
+  },
+  {
+   "key": "healthcare.gov/glossary/deductible/",
+   "anchor": "r-chx5po",
+   "title": "Deductible - Glossary | HealthCare.gov",
+   "author_or_publisher": "HealthCare.gov (U.S. Centers for Medicare & Medicaid Services)",
+   "url": "https://www.healthcare.gov/glossary/deductible/",
+   "citedBy": []
+  },
+  {
+   "key": "investopedia.com/terms/t/taxbracket.asp",
+   "anchor": "r-i0dt8m",
+   "title": "Understand U.S. Tax Brackets and Rates: 2026 Guide",
+   "author_or_publisher": "Investopedia",
+   "url": "https://www.investopedia.com/terms/t/taxbracket.asp",
+   "citedBy": []
+  },
+  {
+   "key": "irs.gov/forms-pubs/about-form-1040",
+   "anchor": "r-2kmh7u",
+   "title": "About Form 1040, U.S. Individual Income Tax Return | Internal Revenue Service",
+   "author_or_publisher": "Internal Revenue Service (IRS)",
+   "url": "https://www.irs.gov/forms-pubs/about-form-1040",
+   "citedBy": []
+  },
+  {
+   "key": "irs.gov/instructions/i1040sca",
+   "anchor": "r-wqpva1",
+   "title": "Instructions for Schedule A (Form 1040) (2025) | Internal Revenue Service",
+   "author_or_publisher": "Internal Revenue Service (IRS)",
+   "url": "https://www.irs.gov/instructions/i1040sca",
+   "citedBy": []
+  },
+  {
+   "key": "consumer.ftc.gov/articles/disputing-errors-your-credit-reports",
+   "anchor": "r-w9qbfl",
+   "title": "Disputing Errors on Your Credit Reports | Consumer Advice",
+   "author_or_publisher": "Federal Trade Commission (FTC)",
+   "url": "https://consumer.ftc.gov/articles/disputing-errors-your-credit-reports",
+   "citedBy": []
+  },
+  {
+   "key": "consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/",
+   "anchor": "r-9y4l0g",
+   "title": "How do I dispute an error on my credit report? | Consumer Financial Protection Bureau",
+   "author_or_publisher": "Consumer Financial Protection Bureau (CFPB)",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/",
+   "citedBy": []
+  },
+  {
+   "key": "investopedia.com/terms/c/credit-utilization-rate.asp",
+   "anchor": "r-9jzjkl",
+   "title": "Credit Utilization Hacks To Elevate Your Credit Score",
+   "author_or_publisher": "Investopedia",
+   "url": "https://www.investopedia.com/terms/c/credit-utilization-rate.asp",
+   "citedBy": []
+  },
+  {
+   "key": "consumerfinance.gov/ask-cfpb/can-my-credit-card-issuer-reduce-my-credit-limit-en-74/",
+   "anchor": "r-mfxc9d",
+   "title": "Can my credit card issuer reduce my credit limit? | Consumer Financial Protection Bureau",
+   "author_or_publisher": "Consumer Financial Protection Bureau (CFPB)",
+   "url": "https://www.consumerfinance.gov/ask-cfpb/can-my-credit-card-issuer-reduce-my-credit-limit-en-74/",
+   "citedBy": []
+  },
+  {
+   "key": "myfico.com/credit-education/blog/zero-percent-utilization-vs-low-utilization-fico-score",
+   "anchor": "r-3ort1c",
+   "title": "Is 0 Greater Than 1 When it Comes to Utilization? | myFICO",
+   "author_or_publisher": "myFICO (FICO)",
+   "url": "https://www.myfico.com/credit-education/blog/zero-percent-utilization-vs-low-utilization-fico-score",
+   "citedBy": []
+  },
+  {
+   "key": "pon.harvard.edu/daily/salary-negotiations/should-you-negotiate-a-job-offer/",
+   "anchor": "r-giwgh9",
+   "title": "Should You Negotiate a Job Offer? - PON - Program on Negotiation at Harvard Law School",
+   "author_or_publisher": "Harvard Program on Negotiation (Harvard Law School)",
+   "url": "https://www.pon.harvard.edu/daily/salary-negotiations/should-you-negotiate-a-job-offer/",
+   "citedBy": []
+  },
+  {
+   "key": "irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes",
+   "anchor": "r-don73z",
+   "title": "Self-employment tax (Social Security and Medicare taxes) | Internal Revenue Service",
+   "author_or_publisher": "Internal Revenue Service (IRS)",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes",
+   "citedBy": []
+  },
+  {
+   "key": "irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes",
+   "anchor": "r-eicwj1",
+   "title": "Estate and gift taxes | Internal Revenue Service",
+   "author_or_publisher": "Internal Revenue Service (IRS)",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes",
+   "citedBy": []
+  },
+  {
+   "key": "selfhelp.courts.ca.gov/wills-estates-probate",
+   "anchor": "r-503yqt",
+   "title": "Guide to wills, estates, and probate court | California Courts | Self Help Guide",
+   "author_or_publisher": "California Courts (Judicial Branch of California)",
+   "url": "https://selfhelp.courts.ca.gov/wills-estates-probate",
+   "citedBy": []
+  }
+ ]
+}
