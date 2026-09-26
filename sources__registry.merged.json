@@ -1,0 +1,475 @@
+[
+ {
+  "name": "SEC Investor.gov",
+  "domain": "investor.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "investor-education",
+   "fundamentals",
+   "regulation"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "U.S. Treasury Fiscal Data",
+  "domain": "fiscaldata.treasury.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "government-finance",
+   "debt",
+   "macro"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "FRED (St. Louis Fed)",
+  "domain": "fred.stlouisfed.org",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "macro",
+   "rates",
+   "inflation",
+   "data"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "IMF",
+  "domain": "imf.org",
+  "tier": "A",
+  "region": "global",
+  "topics": [
+   "macro",
+   "global-economy",
+   "data"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "World Bank Open Data",
+  "domain": "data.worldbank.org",
+  "tier": "A",
+  "region": "global",
+  "topics": [
+   "macro",
+   "development",
+   "data"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "World Trade Organization",
+  "domain": "wto.org",
+  "tier": "A",
+  "region": "global",
+  "topics": [
+   "trade",
+   "global-economy"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "U.S. Federal Reserve",
+  "domain": "federalreserve.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "monetary-policy",
+   "rates"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Bank of Canada",
+  "domain": "bankofcanada.ca",
+  "tier": "A",
+  "region": "Canada",
+  "topics": [
+   "monetary-policy",
+   "rates"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Bank of England",
+  "domain": "bankofengland.co.uk",
+  "tier": "A",
+  "region": "UK",
+  "topics": [
+   "monetary-policy",
+   "rates"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "European Central Bank",
+  "domain": "ecb.europa.eu",
+  "tier": "A",
+  "region": "Europe",
+  "topics": [
+   "monetary-policy",
+   "rates"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Reserve Bank of India",
+  "domain": "rbi.org.in",
+  "tier": "A",
+  "region": "India",
+  "topics": [
+   "monetary-policy"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Monetary Authority of Singapore",
+  "domain": "mas.gov.sg",
+  "tier": "A",
+  "region": "Singapore",
+  "topics": [
+   "monetary-policy",
+   "fintech"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Hong Kong Monetary Authority",
+  "domain": "hkma.gov.hk",
+  "tier": "A",
+  "region": "HongKong",
+  "topics": [
+   "monetary-policy"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Reserve Bank of Australia",
+  "domain": "rba.gov.au",
+  "tier": "A",
+  "region": "Australia",
+  "topics": [
+   "monetary-policy"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "People's Bank of China",
+  "domain": "pbc.gov.cn",
+  "tier": "A",
+  "region": "China",
+  "topics": [
+   "monetary-policy"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "London Stock Exchange",
+  "domain": "londonstockexchange.com",
+  "tier": "A",
+  "region": "UK",
+  "topics": [
+   "markets",
+   "exchanges"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Investopedia",
+  "domain": "investopedia.com",
+  "tier": "B",
+  "region": "global",
+  "topics": [
+   "definitions",
+   "fundamentals"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Corporate Finance Institute",
+  "domain": "corporatefinanceinstitute.com",
+  "tier": "B",
+  "region": "global",
+  "topics": [
+   "valuation",
+   "accounting",
+   "fundamentals"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Wall Street Prep",
+  "domain": "wallstreetprep.com",
+  "tier": "B",
+  "region": "US",
+  "topics": [
+   "valuation",
+   "modeling"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "CFA Institute",
+  "domain": "cfainstitute.org",
+  "tier": "B",
+  "region": "global",
+  "topics": [
+   "standards",
+   "ethics",
+   "valuation"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "StockAnalysis",
+  "domain": "stockanalysis.com",
+  "tier": "B",
+  "region": "US",
+  "topics": [
+   "markets",
+   "ratios",
+   "data"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Aswath Damodaran (NYU Stern data)",
+  "domain": "pages.stern.nyu.edu/~adamodar",
+  "tier": "C",
+  "region": "US",
+  "topics": [
+   "valuation",
+   "equity-risk-premium",
+   "data"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Musings on Markets (Damodaran)",
+  "domain": "aswathdamodaran.blogspot.com",
+  "tier": "C",
+  "region": "US",
+  "topics": [
+   "valuation",
+   "markets"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Bharat Anand (Harvard)",
+  "domain": "hbs.edu",
+  "tier": "C",
+  "region": "US",
+  "topics": [
+   "strategy",
+   "digital-economy"
+  ],
+  "access": "gated"
+ },
+ {
+  "name": "FactSet Insight",
+  "domain": "insight.factset.com",
+  "tier": "D",
+  "region": "US",
+  "topics": [
+   "markets",
+   "research"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Statista",
+  "domain": "statista.com",
+  "tier": "D",
+  "region": "global",
+  "topics": [
+   "statistics",
+   "data"
+  ],
+  "access": "gated"
+ },
+ {
+  "name": "Intrinio",
+  "domain": "data.intrinio.com",
+  "tier": "E",
+  "region": "US",
+  "topics": [
+   "market-data",
+   "api"
+  ],
+  "access": "gated"
+ },
+ {
+  "name": "Accuity (LexisNexis Risk)",
+  "domain": "accuity.com",
+  "tier": "E",
+  "region": "global",
+  "topics": [
+   "payments-reference-data",
+   "api"
+  ],
+  "access": "gated"
+ },
+ {
+  "name": "FactSet data feeds",
+  "domain": "factset.com",
+  "tier": "E",
+  "region": "US",
+  "topics": [
+   "market-data",
+   "api"
+  ],
+  "access": "gated"
+ },
+ {
+  "name": "Internal Revenue Service (IRS)",
+  "domain": "irs.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "taxes",
+   "retirement-accounts",
+   "gig-taxes"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Consumer Financial Protection Bureau (CFPB)",
+  "domain": "consumerfinance.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "housing",
+   "mortgages",
+   "credit",
+   "budgeting"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "HealthCare.gov",
+  "domain": "healthcare.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "health-insurance"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "U.S. Office of Personnel Management (OPM)",
+  "domain": "opm.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "health-insurance"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Federal Deposit Insurance Corporation (FDIC)",
+  "domain": "fdic.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "mortgages",
+   "budgeting",
+   "net-worth"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Federal Trade Commission — Consumer.gov",
+  "domain": "consumer.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "budgeting"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "U.S. Dept. of Labor — CareerOneStop",
+  "domain": "careeronestop.org",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "salary"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "New York State Dept. of Labor",
+  "domain": "dol.ny.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "salary"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "DC Dept. of Insurance, Securities and Banking",
+  "domain": "disb.dc.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "life-insurance"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Washington State Office of the Insurance Commissioner",
+  "domain": "insurance.wa.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "life-insurance"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Oregon Division of Financial Regulation",
+  "domain": "dfr.oregon.gov",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "life-insurance"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "U.S. Army",
+  "domain": "home.army.mil",
+  "tier": "A",
+  "region": "US",
+  "topics": [
+   "estate"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Prosper Canada",
+  "domain": "prospercanada.org",
+  "tier": "B",
+  "region": "CA",
+  "topics": [
+   "net-worth",
+   "budgeting"
+  ],
+  "access": "public"
+ },
+ {
+  "name": "Web Archive (archived FINRA page)",
+  "domain": "web.archive.org",
+  "tier": "B",
+  "region": "US",
+  "topics": [
+   "net-worth"
+  ],
+  "access": "public"
+ }
+]
