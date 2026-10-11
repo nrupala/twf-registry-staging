@@ -1,0 +1,11 @@
+twf-registry-staging
+
+Owned by Nrupal Akolkar · Built with Muse by Meta
+
+This repository is temporary staging for the thinkwithfinance.com (TWF)
+citation registry refresh; the staged files are deleted after the KV write.
+
+The registry data staged here is citation metadata about third-party
+publications (for example SEC Investor.gov, the U.S. Federal Reserve, FRED,
+and the IMF). Those publications remain the property of their respective
+publishers; nothing here republishes their content.
