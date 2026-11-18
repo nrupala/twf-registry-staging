@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0",
+  "profile_id": "code",
+  "profile_version": "1.0.0",
+  "graph_class": "truths",
+  "provenance_summary": {
+    "extracted_truth": 12
+  },
+  "nodes": [
+    {
+      "id": "twf-registry-staging",
+      "kind": "package",
+      "label": "twf-registry-staging",
+      "loc": {
+        "file": "",
+        "line": 0
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::/CHANGELOG.md",
+      "kind": "file",
+      "label": "CHANGELOG.md",
+      "loc": {
+        "file": "CHANGELOG.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::/CONTRIBUTING.md",
+      "kind": "file",
+      "label": "CONTRIBUTING.md",
+      "loc": {
+        "file": "CONTRIBUTING.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::/README.md",
+      "kind": "file",
+      "label": "README.md",
+      "loc": {
+        "file": "README.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::/TERMS.md",
+      "kind": "file",
+      "label": "TERMS.md",
+      "loc": {
+        "file": "TERMS.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::CHANGELOG",
+      "kind": "module",
+      "label": "twf-registry-staging::CHANGELOG",
+      "loc": {
+        "file": "CHANGELOG.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::CHANGELOG::CHANGELOG",
+      "kind": "doc",
+      "label": "CHANGELOG",
+      "loc": {
+        "file": "CHANGELOG.md",
+        "line": 1
+      },
+      "tier": "optional",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::CONTRIBUTING",
+      "kind": "module",
+      "label": "twf-registry-staging::CONTRIBUTING",
+      "loc": {
+        "file": "CONTRIBUTING.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::CONTRIBUTING::CONTRIBUTING",
+      "kind": "doc",
+      "label": "CONTRIBUTING",
+      "loc": {
+        "file": "CONTRIBUTING.md",
+        "line": 1
+      },
+      "tier": "optional",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::README",
+      "kind": "module",
+      "label": "twf-registry-staging::README",
+      "loc": {
+        "file": "README.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::README::README",
+      "kind": "doc",
+      "label": "README",
+      "loc": {
+        "file": "README.md",
+        "line": 1
+      },
+      "tier": "optional",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::TERMS",
+      "kind": "module",
+      "label": "twf-registry-staging::TERMS",
+      "loc": {
+        "file": "TERMS.md",
+        "line": 1
+      },
+      "tier": "core",
+      "defines": [],
+      "refs": []
+    },
+    {
+      "id": "twf-registry-staging::TERMS::TERMS",
+      "kind": "doc",
+      "label": "TERMS",
+      "loc": {
+        "file": "TERMS.md",
+        "line": 1
+      },
+      "tier": "optional",
+      "defines": [],
+      "refs": []
+    }
+  ],
+  "edges": [
+    {
+      "from": "twf-registry-staging",
+      "to": "twf-registry-staging::CHANGELOG",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging",
+      "to": "twf-registry-staging::CONTRIBUTING",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging",
+      "to": "twf-registry-staging::README",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging",
+      "to": "twf-registry-staging::TERMS",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::/CHANGELOG.md",
+      "to": "twf-registry-staging::CHANGELOG::CHANGELOG",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::/CONTRIBUTING.md",
+      "to": "twf-registry-staging::CONTRIBUTING::CONTRIBUTING",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::/README.md",
+      "to": "twf-registry-staging::README::README",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::/TERMS.md",
+      "to": "twf-registry-staging::TERMS::TERMS",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::CHANGELOG",
+      "to": "twf-registry-staging::/CHANGELOG.md",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::CONTRIBUTING",
+      "to": "twf-registry-staging::/CONTRIBUTING.md",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::README",
+      "to": "twf-registry-staging::/README.md",
+      "kind": "contains",
+      "attrs": {}
+    },
+    {
+      "from": "twf-registry-staging::TERMS",
+      "to": "twf-registry-staging::/TERMS.md",
+      "kind": "contains",
+      "attrs": {}
+    }
+  ],
+  "audit_head": "7c59c5d91b175edf367c91491da2cd78f867813897338a4b602682c56bf41841",
+  "audit_log": [
+    {
+      "seq": 0,
+      "ts": "1795021599",
+      "op": "genesis",
+      "payload": "{}",
+      "prev_hash": "GENESIS",
+      "hash": "1d68eea2b4eab9c0ba4dc744c5ad846ee6c067c5db74b953cfb65d230401dc39"
+    },
+    {
+      "seq": 1,
+      "ts": "1795021599",
+      "op": "index_started",
+      "payload": "{\"package\":\"twf-registry-staging\",\"repo\":\"/home/hatch/workspace/codetopo-work/PROFILES-GM-GATE-2026-11-18/work/twf-registry-staging\"}",
+      "prev_hash": "1d68eea2b4eab9c0ba4dc744c5ad846ee6c067c5db74b953cfb65d230401dc39",
+      "hash": "a10e73feb26bc3e1cd002728269edd121f6b4c5b0466984f8a25fc8c3a3e3f19"
+    },
+    {
+      "seq": 2,
+      "ts": "1795021599",
+      "op": "index_finished",
+      "payload": "{\"diagnostics\":0,\"edges\":12,\"files_failed\":0,\"files_indexed\":4,\"nodes\":13}",
+      "prev_hash": "a10e73feb26bc3e1cd002728269edd121f6b4c5b0466984f8a25fc8c3a3e3f19",
+      "hash": "7c59c5d91b175edf367c91491da2cd78f867813897338a4b602682c56bf41841"
+    }
+  ]
+}
